@@ -1,0 +1,13 @@
+Customer_ID,Name,Email,Phone,City,Age,Purchase_Amount
+101," Ankita Patil ","ankita@gmail.com","98765 43210"," pune ",22,1500
+102,"Rahul Sharma","rahul@gmail.com ","9876543210","Mumbai",25,2300
+103," Priya Shah","priya@gmail","98765-43210","PUNE",abc,1800
+104,"Amit Kumar","amit@gmail.com","9876543210"," mumbai ",29,2100
+105,"Sneha Joshi ","sneha @gmail.com","91234 56789","Pune",24,1700
+106,"Rohit Patil","rohit@gmail.com","+91-9876543210","Mumbai",27,2500
+107,"Neha Desai","neha@gmail.com","9876543210"," pune",22,
+108,"Vikas More","vikas@gmail.com","98765-43210","MUMBAI",31,3200
+109,"Pooja Patil","pooja@gmail.com","9876543210","Pune",28,1900
+110,"Kiran Jadhav","kiran@gmail.com","9876543210"," Mumbai ",abc,2200
+111,"Anjali Patil","anjali@gmail.com","9876543210","Pune",26,1600
+112,"Anjali Patil","anjali@gmail.com","9876543210","Pune",26,1600
