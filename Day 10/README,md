@@ -1,0 +1,37 @@
+# Hugging Face Model Summary
+
+## Model Name
+DistilBERT base uncased fine-tuned on SST-2
+
+## Model Purpose
+Used for English sentiment classification.
+
+## Supported Task
+Text Classification / Sentiment Analysis
+
+## Input Format
+Text sentence or review.
+
+Example:
+"Movie was amazing."
+
+## Output Format
+Sentiment label and confidence score.
+
+Example:
+POSITIVE
+Confidence: 0.99
+
+## Real-World Applications
+- Movie review analysis
+- Product review analysis
+- Customer feedback analysis
+- Social media sentiment analysis
+
+## Comparison with Day 9
+Day 9 used TF-IDF with Logistic Regression.
+Day 10 uses a pre-trained Transformer model.
+
+## Conclusion
+The Hugging Face model allows sentiment prediction without
+training a new model from scratch.
